@@ -430,6 +430,9 @@ body {
         flex-wrap: wrap;
         height: 160px;
     }
+        .aside:hover {
+        height: 160px;
+    }
 }
 
 @media(max-width: 509px) {
